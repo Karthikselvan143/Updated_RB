@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\apkmk\\desktop\\rb_updated\\16-09-24updt\\updatedfe-be\\projectdemo1-backend\\projectdemo1\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\apkmk\\desktop\\rb_updated\\16-09-24updt\\updatedfe-be\\projectdemo1-backend\\projectdemo1\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\apkmk\\desktop\\rb_updated\\16-09-24updt\\updatedfe-be\\projectdemo1-backend\\projectdemo1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|c:\\users\\apkmk\\desktop\\rb_updated\\16-09-24updt\\updatedfe-be\\projectdemo1-backend\\projectdemo1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B095CF-6252-4FB7-BB21-E468C3C0B20C}|ProjectDemo1\\ProjectDemo1.csproj|solutionrelative:projectdemo1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/RRDB/True/SqlTable/dbo.bookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Migrations\\20240916191004_addingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo1\\Migrations\\20240916191004_addingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240916191004_addingcolumn.cs",
+              "DocumentMoniker": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Migrations\\20240916191004_addingcolumn.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Migrations\\20240916191004_addingcolumn.cs",
+              "ToolTip": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Migrations\\20240916191004_addingcolumn.cs",
+              "RelativeToolTip": "ProjectDemo1\\Migrations\\20240916191004_addingcolumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:10:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ProjectDemo1\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAYwEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:00:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Models\\Booking.cs",
+              "RelativeToolTip": "ProjectDemo1\\Models\\Booking.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:51:47.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "ProjectDemo1\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAqwOoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:48:02.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.bookings [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/RRDB/True/SqlTable/dbo.bookings.sql",
+              "ToolTip": "dbo.bookings [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-16T19:13:24.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "ProjectDemo1\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\apkmk\\Desktop\\RB_UPDATED\\16-09-24Updt\\updatedFE-BE\\ProjectDemo1-BackEnd\\ProjectDemo1\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "ProjectDemo1\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:40:54.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

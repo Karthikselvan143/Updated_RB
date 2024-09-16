@@ -1,0 +1,60 @@
+.container {
+  padding: 20px;
+}
+
+.table-responsive {
+  max-width: 100%;
+  margin: 20px auto; /* Center align the table */
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+.table {
+  font-size: 14px; /* Make the text smaller */
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 8px; /* Reduce padding */
+  text-align: left;
+}
+
+.table th {
+  background-color: #f2f2f2; /* Light grey background for headers */
+  font-weight: bold;
+}
+
+.table td {
+  border-bottom: 1px solid #ddd; /* Add a bottom border to cells */
+}
+
+/* Adjust table width */
+.table-responsive table {
+  width: auto; /* Auto width based on content */
+  min-width: 600px; /* Set a minimum width to keep it readable */
+}
+
+/* Optional: Responsive adjustments */
+@media (max-width: 768px) {
+  .table-responsive {
+    font-size: 12px; /* Smaller text on smaller screens */
+  }
+}
+.btn-success {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  color: #000;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.btn {
+  margin-right: 5px;
+}

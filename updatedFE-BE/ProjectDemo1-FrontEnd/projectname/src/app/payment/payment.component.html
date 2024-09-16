@@ -1,0 +1,53 @@
+<div *ngIf="loading" class="text-center">Loading...</div>
+<div *ngIf="error" class="alert alert-danger text-center">{{ error }}</div>
+
+<div *ngIf="!loading && !error" class="container">
+  <div class="table-responsive">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Room No</th>
+          <th>RoomType</th>
+          <th>Price</th>
+          <th>Amount</th>
+          <th>Date</th>
+          <th>UserEmail</th>
+          <th>Location</th>
+          <th>Start Date</th>
+          <th>End Date</th>
+          <th>Action</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let booking of bookings">
+          <td>{{ booking.roomNumber }}</td>
+          <td>{{ booking.roomType }}</td>
+          <td>{{ booking.price | currency }}</td>
+          <td>{{ booking.amount | currency }}</td>
+          <td>{{ booking.date | date:'mediumDate' }}</td>
+        
+          <td>{{ booking.email }}</td>
+          <td>{{ booking.datePickerLocation }}</td>
+          <td>{{ booking.startDate | date:'mediumDate' }}</td>
+          <td>{{ booking.endDate | date:'mediumDate' }}</td>
+          <td>
+            <span [ngClass]="{'text-success': booking.isBooked, 'text-danger': !booking.isBooked}">
+              {{ booking.isBooked ? 'Booked' : 'Cancelled' }}
+            </span>
+          </td>
+          <td>
+            <button class="btn btn-danger btn-sm" (click)="deleteBooking(booking.id)">Delete</button>
+            <button
+              class="btn btn-warning btn-sm"
+              *ngIf="booking.isBooked"
+              (click)="cancelBooking(booking)"
+            >
+              Cancel Booking
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
